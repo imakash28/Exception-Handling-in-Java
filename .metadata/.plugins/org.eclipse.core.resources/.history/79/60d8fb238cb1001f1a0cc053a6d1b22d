@@ -1,0 +1,6 @@
+package Service;
+
+public interface CalculatorService {
+
+	void divide(Integer... array);
+}
